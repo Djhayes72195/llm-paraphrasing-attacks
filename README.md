@@ -1,5 +1,5 @@
 # llm-paraphrasing-attacks
-araphrasing attacks are a technique where AI-generated text is perturbed by a paraphraser model to evade detection. This project explores the robustness of AI-text detection methods against such attacks.
+Paraphrasing attacks are a technique where AI-generated text is perturbed by a paraphraser model to evade detection. This project explores the robustness of AI-text detection methods against such attacks.
 
 We:
 - Used a RoBERTa model trained by OpenAI to detect GPT-2 outputs as a baseline.
