@@ -11,5 +11,5 @@ Results:
 - The GPT-2 detector’s recall dropped by ~8% under paraphrasing.
 - The fine-tuned GPT-3 detector was unaffected by the attack, likely due to artifacts in the training data.
 
-The full writeup is available in writeup.pdf.
+Paraphrasing was accomplished with T5 and Llama2 models. The full writeup is available in writeup.pdf.
 
